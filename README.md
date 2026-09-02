@@ -1,3 +1,8 @@
+
+
+https://github.com/user-attachments/assets/53039034-3dfc-4deb-a7db-c4f4a624847a
+
+
 # MediFlow - Smart Hospital Automation System
 
 A fully functional, interactive web application prototype for a smart hospital automation system built with **Next.js 14**, **React 18**, **TypeScript**, **Tailwind CSS**, and **Framer Motion**.
