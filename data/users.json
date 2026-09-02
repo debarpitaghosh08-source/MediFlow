@@ -1,0 +1,26 @@
+[
+  {
+    "id": "user-001",
+    "name": "John Anderson",
+    "email": "john.anderson@email.com",
+    "role": "patient",
+    "phone": "+1 (555) 111-2222",
+    "hospitalId": "HOSP-2024-001"
+  },
+  {
+    "id": "user-002",
+    "name": "Dr. Sarah Mitchell",
+    "email": "sarah.mitchell@mediflow.com",
+    "role": "doctor",
+    "phone": "+1 (555) 123-4567",
+    "hospitalId": "HOSP-DOC-001"
+  },
+  {
+    "id": "user-003",
+    "name": "Admin User",
+    "email": "admin@mediflow.com",
+    "role": "receptionist",
+    "phone": "+1 (555) 999-0000",
+    "hospitalId": "HOSP-ADM-001"
+  }
+]

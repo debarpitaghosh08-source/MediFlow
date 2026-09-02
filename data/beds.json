@@ -1,0 +1,76 @@
+[
+  {
+    "id": "bed-001",
+    "ward": "Cardiac Ward A",
+    "bedNumber": "A-101",
+    "status": "Occupied",
+    "patientId": "pat-001",
+    "branch": "Main Branch"
+  },
+  {
+    "id": "bed-002",
+    "ward": "Cardiac Ward A",
+    "bedNumber": "A-102",
+    "status": "Available",
+    "branch": "Main Branch"
+  },
+  {
+    "id": "bed-003",
+    "ward": "Cardiac Ward A",
+    "bedNumber": "A-103",
+    "status": "Available",
+    "branch": "Main Branch"
+  },
+  {
+    "id": "bed-004",
+    "ward": "Cardiac Ward A",
+    "bedNumber": "A-104",
+    "status": "Maintenance",
+    "branch": "Main Branch"
+  },
+  {
+    "id": "bed-005",
+    "ward": "Cardiac Ward A",
+    "bedNumber": "A-105",
+    "status": "Occupied",
+    "patientId": "pat-001",
+    "branch": "Main Branch"
+  },
+  {
+    "id": "bed-006",
+    "ward": "Neuro Ward B",
+    "bedNumber": "B-201",
+    "status": "Available",
+    "branch": "North Branch"
+  },
+  {
+    "id": "bed-007",
+    "ward": "Neuro Ward B",
+    "bedNumber": "B-202",
+    "status": "Available",
+    "branch": "North Branch"
+  },
+  {
+    "id": "bed-008",
+    "ward": "Neuro Ward B",
+    "bedNumber": "B-210",
+    "status": "Occupied",
+    "patientId": "pat-003",
+    "branch": "North Branch"
+  },
+  {
+    "id": "bed-009",
+    "ward": "Ortho Ward C",
+    "bedNumber": "C-301",
+    "status": "Available",
+    "branch": "South Branch"
+  },
+  {
+    "id": "bed-010",
+    "ward": "Ortho Ward C",
+    "bedNumber": "C-305",
+    "status": "Occupied",
+    "patientId": "pat-005",
+    "branch": "South Branch"
+  }
+]

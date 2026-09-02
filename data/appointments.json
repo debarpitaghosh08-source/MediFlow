@@ -1,0 +1,46 @@
+[
+  {
+    "id": "apt-001",
+    "patientId": "pat-002",
+    "doctorId": "doc-003",
+    "date": "2024-09-05",
+    "timeSlot": "10:30 AM",
+    "status": "Confirmed",
+    "type": "Routine Checkup",
+    "notes": "Annual pediatric wellness visit",
+    "createdAt": "2024-09-01T10:00:00Z"
+  },
+  {
+    "id": "apt-002",
+    "patientId": "pat-004",
+    "doctorId": "doc-005",
+    "date": "2024-09-06",
+    "timeSlot": "11:00 AM",
+    "status": "Pending",
+    "type": "Dermatology Consultation",
+    "notes": "Follow-up for skin rash treatment",
+    "createdAt": "2024-09-01T11:00:00Z"
+  },
+  {
+    "id": "apt-003",
+    "patientId": "pat-001",
+    "doctorId": "doc-001",
+    "date": "2024-09-03",
+    "timeSlot": "9:30 AM",
+    "status": "Completed",
+    "type": "Cardiac Review",
+    "notes": "Post-surgery follow-up",
+    "createdAt": "2024-08-28T09:00:00Z"
+  },
+  {
+    "id": "apt-004",
+    "patientId": "pat-003",
+    "doctorId": "doc-002",
+    "date": "2024-09-07",
+    "timeSlot": "2:00 PM",
+    "status": "Confirmed",
+    "type": "Neurology Assessment",
+    "notes": "Cognitive function evaluation",
+    "createdAt": "2024-09-01T12:00:00Z"
+  }
+]
